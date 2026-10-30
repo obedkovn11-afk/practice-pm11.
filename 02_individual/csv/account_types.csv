@@ -1,0 +1,5 @@
+﻿account_type_id,type_name,annual_interest_rate,monthly_fee
+1,Текущий,0.0,0
+2,Накопительный,5.5,0
+3,Зарплатный,0.5,0
+4,Премиальный,3.0,490
